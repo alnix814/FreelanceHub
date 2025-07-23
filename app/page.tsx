@@ -24,19 +24,20 @@ export default function Home() {
 
         <div className="h-96 bg-[#0a0a0a] border-t border-[#1f2228]">
           <div className="mx-44 mt-24">
-            <h1 className="font-medium text-4xl">Почему именно мы?</h1>
-            <div className="mt-10 flex gap-5">
-              {whyUsItems.map((why, index) => (
-                <Marquee
-                  key={index}
-                  title={why.title}
-                  description={why.description}
-                  icon={why.icon}
-                />
-              ))}
+            <div>
+              <h1 className="font-medium text-4xl">Почему именно мы?</h1>
+              <div className="mt-10 flex gap-5">
+                {whyUsItems.map((why, index) => (
+                  <Marquee
+                    key={index}
+                    title={why.title}
+                    description={why.description}
+                    icon={why.icon}
+                  />
+                ))}
+              </div>
             </div>
 
-            
           </div>
         </div>
 
