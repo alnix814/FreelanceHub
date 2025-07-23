@@ -28,7 +28,7 @@ export const whyUsItems: {
   },
   {
     title: "Надёжность",
-    description: "Стабильная система, проверенная временем",
+    description: "Стабильная система, проверенная тестами и временем",
     icon: "ShieldCheck",
   },
 ];
