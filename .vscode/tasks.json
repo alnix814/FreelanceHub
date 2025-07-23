@@ -4,7 +4,7 @@
     {
       "label": "Auto Push",
       "type": "shell",
-      "command": "git add . && git commit -m \"auto: $(date '+%Y-%m-%d %H:%M:%S')\" && git push origin main",
+      "command": "git add . && git commit -m \"auto: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')\" && git push origin main",
       "problemMatcher": [],
       "group": {
         "kind": "build",
