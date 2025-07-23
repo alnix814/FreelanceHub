@@ -1,5 +1,5 @@
 
-<img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://i.ibb.co/nMt4Jm2B/image.png">
+<img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://i.postimg.cc/L89bFQsp/image-1.png">
 <h1 align="center">FreelanceHub</h1>
 
 
