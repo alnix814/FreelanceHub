@@ -1,7 +1,7 @@
-<a href="https://demo-nextjs-with-supabase.vercel.app/">
-  <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://i.ibb.co/nMt4Jm2B/image.png">
-  <h1 align="center">FreelanceHub</h1>
-</a>
+
+<img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://i.ibb.co/nMt4Jm2B/image.png">
+<h1 align="center">FreelanceHub</h1>
+
 
 <p align="center">
  The fastest way to build apps with Next.js and Supabase

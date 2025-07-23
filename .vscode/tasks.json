@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Auto Push",
+      "type": "shell",
+      "command": "git add . && git commit -m \"auto: $(date '+%Y-%m-%d %H:%M:%S')\" && git push origin main",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
